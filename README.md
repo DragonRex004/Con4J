@@ -1,5 +1,6 @@
 # Con4J
-Eine Simple Bibliothek um zwei Java Apps und zukünftig noch andere Programmiersprachen zu vverbinden. 
+Eine Simple Bibliothek um zwei Java Apps und zukünftig noch andere Programmiersprachen zu 
+verbinden. 
 Es können Einfache Strings zwischen zwei Apps geschickt werden. 
 Es gibt ein Event System das Nachrichten Automatisch Empfängt.
 Zudem läuft jede Con4J Instance auf einem Eigenen Thread.
